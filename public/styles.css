@@ -1,26 +1,12 @@
-.helloInput {
-  width: 200px;
-}
-
-.title{
-  color: white;
-}
-.mainText{
-  color:white;
+* {
+    padding: 0px;
+    margin: 0px;
 }
 
 body {
-  display: flex;
-  min-height: 100vh;
-  flex-direction: column;
-  background-color: #B783C3;
-
+    background-color: aliceblue;
 }
 
-.page-footer{
-  background-color: #9E65A9;
+footer {
+    text-align: center;
 }
-main {
-  flex: 1 0 auto;
-}
-    
